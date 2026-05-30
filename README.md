@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **anjaneya2002@gmail.com**
 
-- 📄 Know about my experiences [https://anjaneyabhardwaj.github.io/resume/](https://anjaneyabhardwaj.github.io/resume/)
+- 📄 Know about my experiences [https://anjaneyabhardwaj.com](https://anjaneyabhardwaj.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
