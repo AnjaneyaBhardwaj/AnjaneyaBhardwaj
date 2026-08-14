@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anjaneya Bhardwaj</h1>
 <h3 align="center">Engineering Intelligent Solutions: Transforming complex data into actionable, real-world impact.</h3>
 
-- 🔭 I’m currently working on **RAG-LLMs**
+- 🔭 I’m currently working on **AI Agents**
 
-- 🌱 I’m currently learning **about AI Agents**
+- 🌱 I’m currently learning **about AI alignment and governance**
 
 - 💬 Ask me about **Neural Networks, Machine Learning, Reinforcement Learning**
 
